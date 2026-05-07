@@ -14,8 +14,18 @@ Data and Code for UNIS AGF-211 surface radiation project
 run on its own. Its purpose is to help with data infrastructure.
 - *rad_plots_adjustedSW.py<sup> I</sup>*: Plots shortwave radiation balance, longwave radiation balance,
 net radiation balance, and albedo.
-- *tiny_tags.py<sup> I</sup>*:
-# Data
+- *tiny_tags.py<sup> I</sup>*: Plots temperature time series for all four Tinytag probes, and
+can also compute basic statistics (mean/min/max)
+
+# Data (DataDataData)
+
+## *MaggieMay*
+
+## *Dataframes*
+
+## *albedo_radiation*
+
+## *calibration_coefficients*
 
 # How to Run:
 
