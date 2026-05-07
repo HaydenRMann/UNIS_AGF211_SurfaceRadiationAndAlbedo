@@ -3,7 +3,7 @@ Data and Code for UNIS AGF-211 surface radiation project
 
 ## Authors:
 - Hayden Mann (hay.mann@icloud.com)
-- Nikola Reissner *email here*
+- Nikola Reissner (nikola.reissner@gmx.de)
 - *If anything appears to be not working or missing: Contact Hayden and Niki (emails below)*
 
 ### Code Author Directory:
