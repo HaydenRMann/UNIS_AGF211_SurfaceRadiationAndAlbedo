@@ -10,9 +10,9 @@ Data and Code for UNIS AGF-211 surface radiation project
 - I: Hayden Mann: hmann@bowdoin.edu (until Summer 2027), hay.mann@icloud.com
 
 # Scripts
-- data_analyis.py*<sup> I</sup>*:
-- rad_plots_adjustedSW.py*<sup> I</sup>*:
-- tiny_tags.py*<sup> I</sup>*:
+- *data_analyis.py<sup> I</sup>*:
+- *rad_plots_adjustedSW.py<sup> I</sup>*:
+- *tiny_tags.py<sup> I</sup>*:
 # Data
 
 # How to Run:
