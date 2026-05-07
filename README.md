@@ -10,8 +10,10 @@ Data and Code for UNIS AGF-211 surface radiation project
 - I: Hayden Mann: hmann@bowdoin.edu (until Summer 2027), hay.mann@icloud.com
 
 # Scripts
-- *data_analyis.py<sup> I</sup>*:
-- *rad_plots_adjustedSW.py<sup> I</sup>*:
+- *data_analyis.py<sup> I</sup>*: This program acts as a supporter to rad_plots_adjustedSW.py. It is not
+run on its own. Its purpose is to help with data infrastructure.
+- *rad_plots_adjustedSW.py<sup> I</sup>*: Plots shortwave radiation balance, longwave radiation balance,
+net radiation balance, and albedo.
 - *tiny_tags.py<sup> I</sup>*:
 # Data
 
