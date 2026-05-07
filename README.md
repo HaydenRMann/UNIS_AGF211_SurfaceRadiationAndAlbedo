@@ -1,2 +1,22 @@
 # UNIS_AGF211_SurfaceRadiationAndAlbedo
 Data and Code for UNIS AGF-211 surface radiation project
+
+## Authors:
+- Hayden Mann (hay.mann@icloud.com)
+- Nikola Reissner *email here*
+- *If anything appears to be not working or missing: Contact Hayden and Niki (emails below)*
+
+### Code Author Directory:
+- I: Hayden Mann: hmann@bowdoin.edu (until Summer 2027), hay.mann@icloud.com
+- II: Nikola Reissner
+
+# Scripts
+
+# Data
+
+# How to Run:
+
+# Example Plots:
+
+
+
