@@ -1,0 +1,54 @@
+T_ref = slope*T + offset
+
+		slope	offset
+BobbyMcGee     	1.002	0.245
+Eileen         	1.011	-0.369
+TomJoad        	1.000	-0.000
+MaggieMay_1    	1.017	-0.374
+MaggieMay_2    	1.020	-0.374
+
+
+
+RH_ref = slope*RH + offset
+
+		slope	offset
+BobbyMcGee     	1.204	-11.629
+Eileen         	1.094	-9.715
+TomJoad        	1.000	0.000
+MaggieMay_1    	1.008	4.310
+MaggieMay_2    	0.919	9.382
+
+
+
+WS_ref = slope*WS + offset
+
+		slope	offset
+BobbyMcGee     	1.016	0.208
+Eileen         	1.024	0.258
+TomJoad        	1.000	-0.000
+MaggieMay_1    	1.003	-0.192
+MaggieMay_2    	0.606	0.283
+
+
+p_ref = slope*p + offset
+
+		slope	offset
+BobbyMcGee     	1.209	-210.381
+Eileen         	0.609	402.217
+Layla          	0.608	402.994
+MaggieMay      	1.000	-0.000
+
+
+
+
+
+Tinytags:
+
+T_ref = T + offset
+
+		offset
+TT16 T_black 	-0.055
+TT16 T_white 	-0.019
+TT3 T_black  	-0.026
+TT3 T_white  	-0.031
+
