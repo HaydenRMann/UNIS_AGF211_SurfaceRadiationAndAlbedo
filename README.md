@@ -31,5 +31,17 @@ can also compute basic statistics (mean/min/max)
 
 # Example Plots:
 
+## Shortwave Radiation
+<img width="6524" height="3057" alt="SW_MOSTRECENT_MAY5" src="https://github.com/user-attachments/assets/6784a4ea-e67c-4d81-96a6-5cb01fcbfe01" />
 
+## Longwave Radiation
+<img width="6461" height="3046" alt="LW_MOSTRECENT_MAY5" src="https://github.com/user-attachments/assets/79e14689-c831-4d12-bbfe-d48f324e6d3d" />
 
+## Net Radiation
+<img width="6256" height="2548" alt="NET_MOSTRECENT_MAY5" src="https://github.com/user-attachments/assets/d2626da1-6a48-4e95-b946-cb29519009ac" />
+
+## Albedo
+<img width="7082" height="2285" alt="ALBEDO_MOSTRECENT_MAY5" src="https://github.com/user-attachments/assets/575e0be6-b0c4-4364-ad62-5f1ad3e12301" />
+
+## Temperature
+<img width="6577" height="3037" alt="TINYTAG_MOSTRECENT_MAY5" src="https://github.com/user-attachments/assets/6cd2152d-f8e6-428a-94dc-47b29217ff42" />
